@@ -2,7 +2,7 @@
 
 A simple black, grey, and white minimalist template for portforlio.
 
-![Plain - Screenshot](screenshot-plain.png "Plain - Screenshot")
+![Plain - Screenshot](Aljafril-Portfolio-ScreenShot.png "Plain - Screenshot")
 
 ## Features
 
